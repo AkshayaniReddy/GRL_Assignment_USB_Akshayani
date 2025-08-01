@@ -27,4 +27,6 @@ This Python script extracts and structures the **Table of Contents (ToC)** and d
 Open a terminal or command prompt in this project directory and run:
 
 pip install -r requirements.txt
+
+
 python usb_pd.py
